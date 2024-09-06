@@ -1,5 +1,11 @@
 # 💫 About Me:
-Hi there! I am Dani, and in April 2024 I decided that I will be going on the rewarding (and challenging) journey of teaching myself code. I am particularly interested in the prospect of becoming a full-stack developer. As you might have expected, I have started with the front-end frameworks and have thus far strengthened my knowledge in HTML and CSS and am now navigating the exciting language of JavaScript. I am currently learning through App Academy Open, and though the course is difficult - I have truly been enjoying this journey and can not wait learn even more. 
+Hi there! 
+
+I am Dani, and in April 2024 I decided that I will be going on the rewarding (and challenging) journey of teaching myself code. I am particularly interested in the prospect of becoming a full-stack developer. 
+
+As you might have expected, I have started with the front-end frameworks and have thus far strengthened my knowledge in HTML and CSS and am now navigating the exciting language of JavaScript. 
+
+I am currently learning through App Academy Open (Software Engineer), and though the course is difficult - I have truly been enjoying this journey and can not wait learn even more. 
 
 Watch this space!
 
