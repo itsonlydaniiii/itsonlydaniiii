@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hi there! 
 
-I am Dani, and in April 2024 I decided that I will be going on the rewarding (and challenging) journey of teaching myself code. I am particularly interested in the prospect of becoming a Software Engineer. 
+I am Dani, and in April 2024 I decided that I will be going on the rewarding (and challenging) journey of teaching myself code. I am particularly interested in the prospect of becoming a Full-Stack Developer. 
 
 As you might have expected, I have started with the front-end frameworks and have thus far strengthened my knowledge in HTML and CSS and am now navigating the exciting language of JavaScript. 
 
