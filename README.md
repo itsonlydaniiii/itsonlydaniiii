@@ -1,15 +1,15 @@
 # 💫 About Me:
-Hi there! 
 
-I am Dani, and in April 2024 I decided that I will be going on the rewarding (and challenging) journey of teaching myself code. I am particularly interested in the prospect of calling myself a Full-Stack Developer - though, I have not yet decided if this is going to be a career path - I am currently enjoying this journey as a hobby with potential. 
+👋 Hi, I'm a recruiter with a passion for connecting talented people with meaningful opportunities.
 
-As you might have expected, I have started with the front-end frameworks and have thus far strengthened my knowledge in HTML and CSS and am now navigating the exciting language of JavaScript. 
+With a Master's degree in Counselling, I bring a people-first approach to recruitment, combining strong interpersonal skills with a deep understanding of human behavior, motivation, and career development. I enjoy building authentic relationships, helping candidates navigate their career journeys, and supporting organizations in finding the right talent.
 
-I started with The Odin Project Fundamentals, but have found that it is not as in-depth as I would prefer. Thus, I went on the hunt to find something more up-my-alley...
+I'm particularly interested in talent acquisition, candidate experience, workforce development, and the intersection of people, technology, and business growth.
 
-I am currently learning through App Academy Open (Software Engineer), and though the course is difficult - I have truly been enjoying this journey and can not wait learn even more. 
+When I'm not recruiting, I'm always learning, exploring new tools and technologies, and looking for ways to create better experiences for both candidates and hiring teams.
 
-Watch this space!
+📫 Let's connect and build great teams together.
+
 
 
 ## 🌐 Socials:
